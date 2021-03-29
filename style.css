@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+#marqueeStyle {
+    background-color: black;
+    color: white;
+}
+
+#line {
+    height: 5px;
+    width: 100px;
+    background-color: black;
+    margin-left:610px;
+    margin-bottom: 20px
+}
