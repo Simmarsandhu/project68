@@ -66,3 +66,13 @@ body {
 .text h2{
     font-size: 20px
 }
+.list_item p{
+    
+    font-size:15px;
+    
+}
+.list_item img{
+    width:400px;
+    height:300px;
+    padding:0px;
+}
