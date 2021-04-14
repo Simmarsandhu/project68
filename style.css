@@ -76,3 +76,23 @@ body {
     height:300px;
     padding:0px;
 }
+.modal{
+    text-align: center;
+    margin-top:100px;
+}
+.alumnilist p {
+    text-align: center;
+    margin:10px;
+}
+.modal img{
+    margin-left:250px;
+}
+#footer{
+    background-color: black;
+    height: 20px;
+}
+ #imgtop{
+    height:50px;
+    width:50px;
+     margin-left:530px; 
+}
